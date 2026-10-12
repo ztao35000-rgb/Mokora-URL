@@ -5,34 +5,34 @@
   "version": "1",
   "server": {
     "url_source": "https://raw.githubusercontent.com/ztao35000-rgb/Mokora-URL/main/URL.txt",
-    "base_url": "https://boring-nations-sound-article.trycloudflare.com",
+    "base_url": "https://kurt-haven-dont-another.trycloudflare.com",
     "base_path": "/yggdrasil"
   },
   "yggdrasil": {
-    "base": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil",
-    "meta": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil",
-    "authserver": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver",
-    "sessionserver": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/sessionserver",
-    "authenticate": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver/authenticate",
-    "validate": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver/validate",
-    "refresh": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver/refresh",
-    "invalidate": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver/invalidate",
-    "signout": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/authserver/signout",
-    "join": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/join",
-    "hasJoined": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/hasJoined",
-    "profile": "https://boring-nations-sound-article.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/profile"
+    "base": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil",
+    "meta": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil",
+    "authserver": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver",
+    "sessionserver": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/sessionserver",
+    "authenticate": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver/authenticate",
+    "validate": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver/validate",
+    "refresh": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver/refresh",
+    "invalidate": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver/invalidate",
+    "signout": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/authserver/signout",
+    "join": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/join",
+    "hasJoined": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/hasJoined",
+    "profile": "https://kurt-haven-dont-another.trycloudflare.com/yggdrasil/sessionserver/session/minecraft/profile"
   },
   "api": {
-    "base": "https://boring-nations-sound-article.trycloudflare.com/api",
-    "account": "https://boring-nations-sound-article.trycloudflare.com/account",
-    "stats": "https://boring-nations-sound-article.trycloudflare.com/api/eagler/stats",
-    "skin": "https://boring-nations-sound-article.trycloudflare.com/skins",
-    "mods": "https://boring-nations-sound-article.trycloudflare.com/mods"
+    "base": "https://kurt-haven-dont-another.trycloudflare.com/api",
+    "account": "https://kurt-haven-dont-another.trycloudflare.com/account",
+    "stats": "https://kurt-haven-dont-another.trycloudflare.com/api/eagler/stats",
+    "skin": "https://kurt-haven-dont-another.trycloudflare.com/skins",
+    "mods": "https://kurt-haven-dont-another.trycloudflare.com/mods"
   },
   "dynamic": {
     "enabled": true,
     "source": "https://raw.githubusercontent.com/ztao35000-rgb/Mokora-URL/main/URL_yggdrasil.json",
     "url_file": "https://raw.githubusercontent.com/ztao35000-rgb/Mokora-URL/main/URL.txt",
-    "updated_at": "2026-10-08T07:46:51.671809+00:00"
+    "updated_at": "2026-10-12T03:06:31.605871+00:00"
   }
 }
